@@ -35,3 +35,8 @@ _I2Sense Laboratory; University of Calgary September 2023 – Present, Calgary, 
 **Host** _New Camp January 2022 - August 2022,  Calgary, AB_
 
 - Collaborated closely with colleagues, maintaining effective communication and offering support to clients, improving client satisfaction and team cohesion.
+
+## Languages
+
+- **English**: Professional proficiency
+- **Spanish**: Native proficiency

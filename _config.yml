@@ -23,7 +23,7 @@ search: false
 locale: en-CA
 repository: Santigf12/fuentes-website
 url: "https://www.fuentes.it.com/"
-# baseurl: "/fuentes-website"  # the subpath of your site, e.g. /blog
+baseurl: "/fuentes-website"  # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown

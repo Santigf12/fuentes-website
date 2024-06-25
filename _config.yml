@@ -22,8 +22,8 @@ minimal_mistakes_skin: default
 search: false
 locale: en-CA
 repository: Santigf12/fuentes-website
-url: "https://www.fuentes.it.com/"
-baseurl: "/fuentes-website"  # the subpath of your site, e.g. /blog
+url: "santigf12.github.io"
+baseurl: "/"  # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
